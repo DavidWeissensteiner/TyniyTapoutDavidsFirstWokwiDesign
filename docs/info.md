@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The the Tickrate of the Clock it counts 8Bit backward.
 
 ## How to test
 
-Explain how to use your project
+Conect everything and look if it counts
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+8 LEDs
